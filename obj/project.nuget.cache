@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "DH8a9f1kSx8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pauls\\Desktop\\AndroPeakNew\\Andropeak-master\\Andropeak\\Andropeak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauls\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\pauls\\.nuget\\packages\\portabledevices\\1.0.1\\portabledevices.1.0.1.nupkg.sha512",
+    "C:\\Users\\pauls\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\pauls\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PortableDevices 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PortableDevices",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
